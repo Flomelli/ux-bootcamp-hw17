@@ -32,17 +32,11 @@ img {
 .linkedin {
     width: 50px;
     padding: 10px;
-    background-color: #0077B5;
-    border-radius: 5px;
 }
 
 .navBar {
     color: #5FBFE9;
     margin: 0;
-}
-
-.linkedin {
-    width: 50px;
 }
 
 ul {
